@@ -12,6 +12,9 @@ Lowara **does not** offer **any** replacement parts for their units, so a comple
 * **Failure description:** Display of unit gets dark and unit does not react any longer.
 * **Failure mode:** Vcc capacitor (Chemicon MZA 35V 47uF) of fly back converter gets bad and Vcc of U6 becomes unstable. U6 then does not turn on any longer, which make the complete DC power supply fail. Issue can be resolved by replacing this capacitor, e.g. with  HXC350ARA680.
 
+<img width="716" height="646" alt="image" src="https://github.com/user-attachments/assets/387366a2-6c0d-4590-9b8f-3ee80bb57918" />
+
+
 ---
 
 ## ⚠️ Disclaimer
